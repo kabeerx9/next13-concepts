@@ -1,1 +1,1 @@
-# Some Next-13 concepts to keep in mind
+# Learning Next 13 on the way
